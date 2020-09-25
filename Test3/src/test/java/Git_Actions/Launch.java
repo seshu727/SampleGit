@@ -16,7 +16,7 @@ public class Launch {
 		driver.manage().window().maximize();
 	}
 	@Test
-	public void name() {
+	public void A() {
 		System.out.println("done");
 	}
 }
